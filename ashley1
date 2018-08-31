@@ -3,6 +3,7 @@ int main()
 {
      int time;
     print("hi")
+    print("hiiiiii")
      printf("Enter your time:");
      scanf("%d",&time);
     
