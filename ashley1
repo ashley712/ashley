@@ -2,7 +2,7 @@
 int main()
 {
      int time;
-    
+    print("hi")
      printf("Enter your time:");
      scanf("%d",&time);
     
